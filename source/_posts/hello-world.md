@@ -206,3 +206,7 @@ DOC文件有可能在Mac中打不开或者因为编码，字体等奇奇怪怪�
 当然，一份文档并不能解决所有的问题，它只能解决一些通用问题，而且每个人的情况是多少有些不同的，我还是希望也能帮助到这些大学生朋友，以下是我个人的一个微信公众号，你可以向我的公众号留言，我会尽我所能去帮助大家。
 
 ![麦索的公众号](/images/qrcode_for_gh_2beea78a116c_344.jpg)
+
+同时感谢[校园VC](http://www.xiaoyuanvc.com/)的[殷建松](https://baike.baidu.com/item/%E6%AE%B7%E5%BB%BA%E6%9D%BE)老师的提议与指导，让我能够把这个文档付诸实现。
+
+![校园VC](/images/Firdub8MKlskxJ0Gss_nrGZVUuII.png)
